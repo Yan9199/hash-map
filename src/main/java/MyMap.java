@@ -1,5 +1,3 @@
-package h06;
-
 public interface MyMap<K, V> {
 
     /**

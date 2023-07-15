@@ -1,5 +1,3 @@
-package h06;
-
 public class Hash2IndexFct<T> implements Fct2Int<T> {
 
     /**

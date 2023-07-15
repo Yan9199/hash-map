@@ -1,14 +1,13 @@
-package h06;
-
-public interface Fct2Int<T> {
+public interface BinaryFct2Int<T> {
 
     /**
-     * Transforms the parameter "x" to an integer value.
+     * Transforms the parameters "x" and "i" to an integer value.
      *
      * @param x The value of type T used in the transformation process.
-     * @return Integer value which is calculated using parameter "x".
+     * @param i The value of type integer used in the transformation process.
+     * @return Integer value which is calculated using parameters "x" and "i".
      */
-    int apply(T x);
+    int apply(T x, int i);
 
     /**
      * Returns the current table size.

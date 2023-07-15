@@ -1,5 +1,3 @@
-package h06;
-
 /**
  * Main entry point in executing the program.
  */

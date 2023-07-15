@@ -1,5 +1,3 @@
-package h06;
-
 import java.util.LinkedList;
 import java.util.Objects;
 

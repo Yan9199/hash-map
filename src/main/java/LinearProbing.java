@@ -1,5 +1,3 @@
-package h06;
-
 public class LinearProbing<T> implements BinaryFct2Int<T> {
 
     /**

@@ -1,5 +1,3 @@
-package h06;
-
 import java.util.Objects;
 
 public class MyIndexHoppingHashMap<K, V> implements MyMap<K, V> {
